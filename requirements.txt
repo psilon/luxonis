@@ -1,0 +1,6 @@
+flask
+psycopg2-binary
+lxml
+scrapy
+ipython
+python-dotenv
